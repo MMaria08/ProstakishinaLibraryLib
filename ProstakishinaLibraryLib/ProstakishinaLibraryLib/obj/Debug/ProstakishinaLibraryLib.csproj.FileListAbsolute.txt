@@ -1,0 +1,6 @@
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaLibraryLib\ProstakishinaLibraryLib\bin\Debug\ProstakishinaLibraryLib.dll
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaLibraryLib\ProstakishinaLibraryLib\bin\Debug\ProstakishinaLibraryLib.pdb
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaLibraryLib\ProstakishinaLibraryLib\obj\Debug\ProstakishinaLibraryLib.csproj.AssemblyReference.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaLibraryLib\ProstakishinaLibraryLib\obj\Debug\ProstakishinaLibraryLib.csproj.CoreCompileInputs.cache
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaLibraryLib\ProstakishinaLibraryLib\obj\Debug\ProstakishinaLibraryLib.dll
+C:\Users\PROSTAKISHINA_MA\OneDrive\Рабочий стол\п\Новая папка\ProstakishinaLibraryLib\ProstakishinaLibraryLib\obj\Debug\ProstakishinaLibraryLib.pdb
